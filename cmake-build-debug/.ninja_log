@@ -1,0 +1,6 @@
+# ninja log v5
+4	216	7077065385193581	CMakeFiles/carRentalSystem.dir/main.c.obj	286f7c5c75fadcbc
+217	429	7077065386742633	carRentalSystem.exe	8d264f156e6c68ea
+102	1216	7077010629024989	build.ninja	ce3ba5de9aab956a
+3	213	7077067915579269	CMakeFiles/carRentalSystem.dir/main.c.obj	286f7c5c75fadcbc
+213	372	7077067917088334	carRentalSystem.exe	8d264f156e6c68ea

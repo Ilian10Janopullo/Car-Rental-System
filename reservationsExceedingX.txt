@@ -1,0 +1,31 @@
+Reservations with a total cost exceeding 300.00: These reservations were saved on: Wed Jun 07 18:52:29 2023
+Reservation ID : 1 
+Client ID : 1
+Number of days : 6
+Price : 600.000
+Date : Tue May 30 00:02:52 2023
+Vehicle plate : AA010AF
+
+Reservation ID : 6 
+Client ID : 6
+Number of days : 8
+Price : 432.000
+Date : Wed Jun 07 18:48:43 2023
+Vehicle plate : AA785GF
+
+Reservations with a total cost exceeding 2.00: These reservations were saved on: Wed Jun 07 18:57:56 2023
+Reservation ID : 1 
+Client ID : 1
+Number of days : 6
+Price : 600.000
+Date : Tue May 30 00:02:52 2023
+Vehicle plate : AA010AF
+
+Reservation ID : 5 
+Client ID : 1
+Number of days : 4
+Price : 240.000
+Date : Wed Jun 07 18:44:39 2023
+Vehicle plate : AA942LN
+
+Reservations with a total cost exceeding 600.00: These reservations were saved on: Thu Jun 08 18:07:40 2023
